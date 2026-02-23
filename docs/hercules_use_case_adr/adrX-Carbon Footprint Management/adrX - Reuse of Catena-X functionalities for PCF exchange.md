@@ -8,7 +8,7 @@ tags: [architecture_decision_records, PCF, Catena-X, Tractus-X, reuse, API]
 
 ## Purpose
 
-- This ADR provides normative guidance for implementing Product Carbon Footprint (PCF) data exchange in FActory-X by adopting Catena-X / Tractus-X PCF exchange specification ("standardization triangle": mandatory components, data models, APIs, registration/procedures).
+- This ADR provides normative guidance for implementing Product Carbon Footprint (PCF) data exchange in Factory-X by adopting Catena-X / Tractus-X PCF exchange specification ("standardization triangle": mandatory components, data models, APIs, registration/procedures).
 - The objective is interoperability with Catena-X-aligned partners and a verifiable conformance basis
 
 
