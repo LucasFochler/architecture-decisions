@@ -36,9 +36,6 @@ tags: [architecture_decision_records, PCF, Catena-X, Tractus-X, reuse, API]
 
 - For value-only JSON payloads (e.g., synchronous pull), the response body MUST be value-only JSON conforming to the PCF model and Content-Type MUST be application/json.
 
-- Methodology alignment MUST follow the current version of the Manufacturing-X PCF Rulebook (will be published in March/April) for cradle-to-gate production PCF exchange and its normative "shall/should/may/can" interpretation rules.
-The Rulebook defines that "shall" indicates requirements for CX-PCF compliance and provides the hierarchy of conformity (ISO 14067 as basis, plus automotive-specific requirements in the rulebook, plus sector/product-specific rules as applicable).
-
 ## Authentication and Authorization
 
 - Data sharing MUST follow the CX-0136 conformance and proof-of-conformity requirements for Catena-X participants, including that standardized OpenAPI specs and EDC asset/contract structures MUST correspond to the described structure.
